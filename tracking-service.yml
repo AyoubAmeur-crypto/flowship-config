@@ -1,0 +1,5 @@
+server:
+  port: 8083
+
+flowship:
+  message: "Hello from Tracking Service config"
